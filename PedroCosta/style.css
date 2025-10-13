@@ -1,0 +1,35 @@
+.head{
+    width: auto;
+    background-color: #9ea1a1;
+    height: 50px;
+}
+body{
+    background-color: rgba(230, 227, 227, 0.904);
+    background-image: url('C:/Users/labcaxias/Desktop/PedroCosta/Imagens/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.op{
+    display: inline-block;
+    background-color: #fafafa;
+    width: 200px;
+    height: 175px;
+    margin: 20px;
+}
+.opitions{
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-33%, -50%);
+}
+#mapa{
+    background-image: url('C:/Users/labcaxias/Desktop/PedroCosta/Imagens/mapa_hallownesrt.webp');
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    position:relative;
+    top: 64%;
+    left: 10%;
+}
