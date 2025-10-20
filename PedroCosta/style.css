@@ -5,7 +5,7 @@
 }
 body{
     background-color: rgba(230, 227, 227, 0.904);
-    background-image: url('C:/Users/labcaxias/Desktop/PedroCosta/Imagens/back.png');
+    background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/back.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -24,17 +24,17 @@ body{
     width: 490px;
 }
 #mapa{
-    background-image: url('C:/Users/labcaxias/Desktop/PedroCosta/Imagens/mapa_hallownesrt.webp');
+    background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/mapa_hallownesrt.webp');
     background-size: cover;
 }
 
 h1{
-    color: white;
+    color: rgb(0, 0, 0);
     position:relative;
     top: 64%;
     left: 10%;
 }
 #bosses{
-    background-image: url('C:/Users/labcaxias/Desktop/PedroCosta/Imagens/bosses.avif');
+    background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/bosses.avif');
     background-size: cover;
 }
