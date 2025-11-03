@@ -16,12 +16,12 @@ body{
     height: 175px;
     margin: 20px;
     border: 1px solid white;
+    margin: 30px;
 }
-.opitions{
-    margin: 0 auto;
-    margin-top: 120px;
+#opitions{
+
     background-color: black;
-    width: 490px;
+    
 }
 #mapa{
     background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/mapa_hallownesrt.webp');
