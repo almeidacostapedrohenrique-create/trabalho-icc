@@ -38,3 +38,11 @@ h1{
     background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/bosses.avif');
     background-size: cover;
 }
+.item_menu a:link{
+    color:black; 
+    
+}
+.item_menu a:hover{
+    text-decoration: none;
+}
+
