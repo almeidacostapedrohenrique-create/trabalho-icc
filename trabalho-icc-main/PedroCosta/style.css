@@ -1,0 +1,47 @@
+.head{
+    width: auto;
+    background-color: #9ea1a1;
+    height: 50px;
+}
+body{
+    background-color: rgba(230, 227, 227, 0.904);
+    background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.op{
+    display: inline-block;
+    background-color: #fafafa;
+    width: 200px;
+    height: 175px;
+    margin: 20px;
+    border: 1px solid white;
+    margin: 30px;
+}
+#opitions{
+
+    background-color: black;
+    
+}
+#mapa{
+    background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/mapa_hallownesrt.webp');
+    background-size: cover;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    position:relative;
+    top: 64%;
+    left: 10%;
+}
+#bosses{
+    background-image: url('C:/Users/labcaxias/Documents/TRABALHO/trabalho-icc-main/PedroCosta/Imagens/bosses.avif');
+    background-size: cover;
+}
+.item_menu a:link{
+    color:black; 
+    
+}
+.item_menu a:hover{
+    text-decoration: none;
+}
