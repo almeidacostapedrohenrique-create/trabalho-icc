@@ -12,3 +12,13 @@ botoes.forEach(botao => {
         botao.style.transform = "scale(1)";
     });
 });
+
+
+function em_cima(id){
+    const div = document.getElementById(id);
+    div.style.transform = "scale(1.065)";
+}
+function fora(id){
+    const div = document.getElementById(id);
+    div.style.transform = "scale(1)";
+}
